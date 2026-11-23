@@ -1,0 +1,14 @@
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+
+# 本地学生数据
+students.json
+
+# 虚拟环境
+.venv/
+venv/
+
+# 环境配置
+.env
